@@ -1,2 +1,4 @@
 # British-Airway-DS-Program
-This is a Data Science Virtual Experience Programme by British Airways, we will be doing some web scraping to gain company insights, and predict customer buying behaviour using machine learning
+## This is a Data Science Virtual Experience Programme by British Airways. For the task, we will be doing:
+1. Web Scraping to gain company insights
+2. Predicting customer buying behaviour 
